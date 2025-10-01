@@ -72,4 +72,6 @@ In case the primary site faces temporary downtime, **DarkDock mirror links** pro
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/img/thumbnail.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  Thursday 18 September 2025 Link is now reachable
+
+
+Update:  Wednesday 01 October 2025
